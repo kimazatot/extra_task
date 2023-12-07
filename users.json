@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Kim Ade",
+    "email": "kimazatot@gmail.com",
+    "password": "987654321"
+  },
+  {
+    "id": 2,
+    "name": "Lee Aisha",
+    "email": "leeaisha@gmail.com",
+    "password": "258963"
+  },
+  {
+    "id": 3,
+    "name": "Bakytov Aidar",
+    "email": "bakytov_aidar@gmail.com",
+    "password": "jsbest"
+  }
+]
